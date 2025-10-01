@@ -31,8 +31,8 @@
 ### 🔥 GitHub Stats
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=tungnguyen&show_icons=true&theme=radical" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tungnguyen&layout=compact&theme=radical" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=tungnguyenasu&show_icons=true&theme=radical" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tungnguyenasu&layout=compact&theme=radical" />
 </p>
 
 ---
@@ -41,10 +41,10 @@
 
 | Project | Description |
 |--------|-------------|
-| [Movie Search App](https://github.com/tungnguyen/MovieSearchApp) | Full-stack JavaScript app with Express API, MongoDB, and frontend movie search |
-| [Media Monitoring System](https://github.com/tungnguyen/MediaMonitoring) | Angular frontend + Node/Express backend, MongoDB, Admin Dashboard |
-| [MapReduce Word Count](https://github.com/tungnguyen/MapReduceWebApp) | ASP.NET frontend, RESTful services for Map, Reduce, Combine |
-| [iOS Travel Journal](https://github.com/tungnguyen/TravelJournalApp) | SwiftUI + CoreData, MVVM architecture, interactive travel log |
+| [Movie Search App](https://github.com/tungnguyenasu/MovieSearchApp) | Full-stack JavaScript app with Express API, MongoDB, and frontend movie search |
+| [Media Monitoring System](https://github.com/tungnguyenasu/MediaMonitoring) | Angular frontend + Node/Express backend, MongoDB, Admin Dashboard |
+| [MapReduce Word Count](https://github.com/tungnguyenasu/MapReduceWebApp) | ASP.NET frontend, RESTful services for Map, Reduce, Combine |
+| [iOS Travel Journal](https://github.com/tungnguyenasu/TravelJournalApp) | SwiftUI + CoreData, MVVM architecture, interactive travel log |
 
 ---
 
