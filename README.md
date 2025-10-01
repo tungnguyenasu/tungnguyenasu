@@ -10,22 +10,30 @@
 ### 👨‍💻 About Me
 
 - 🔭 I’m currently working on:
-  - Media Monitoring System (Angular + Node + MongoDB)
-  - MapReduce WordCount WebApp (ASP.NET + C# + REST)
-  - SwiftUI iOS Apps using MVVM and CoreData/Firebase
-- 🌱 I’m currently learning: **Next.js, Docker, AWS, AI APIs**
-- 👯 I’m looking to collaborate on **open source, internships, or CS research projects**
-- 💬 Ask me about **Java, Python, Swift, React, Node.js, MongoDB, .NET**
+  - **Movie Search App** (Node.js, Express, MongoDB, REST API)
+  - **Media Monitoring System** (Angular + Node + MongoDB)
+  - **MapReduce WordCount WebApp** (ASP.NET + C# + RESTful services)
+  - **iOS Apps using SwiftUI, MVVM, CoreData, and Firebase**
+- 🌱 I’m currently learning: **Go, Docker, AWS, AI APIs**
+- 👯 I’m looking to collaborate on **new grad job, open source, internships, or CS research projects**
 - 📫 Reach me at **tungnguyen@email.com**
-- 🐠 Fun fact: I’m a saltwater reefer and coral lover 🧜‍♂️🐚
+- 🐠 Fun fact: I’m a saltwater reefer and a badminton player 🧜‍♂️🏸
 
 ---
 
-### 🛠️ Languages & Tools
+### 🔧 Languages and Tools
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=java,python,js,ts,react,nodejs,mongodb,express,dotnet,swift,html,css,figma,git,vscode" />
-</p>
+- **Programming Languages**:  
+  Java, Python, C++, SQL, JavaScript, Swift, Kotlin, Go, Ruby
+
+- **Web & Mobile**:  
+  HTML, CSS, Flutter, React, React Native, Angular, Node.js
+
+- **Framework and Tools**:  
+  Spring Boot, Docker, Git, AWS, Tableau, Power BI, Kubernetes
+
+- **Databases**:  
+  MySQL, PostgreSQL, MongoDB
 
 ---
 
@@ -42,9 +50,9 @@
 
 | Project | Description |
 |--------|-------------|
+| [Movie Search App](https://github.com/tungnguyen/MovieSearchApp) | Full-stack JavaScript app with Express API, MongoDB, and frontend movie search |
 | [Media Monitoring System](https://github.com/tungnguyen/MediaMonitoring) | Angular frontend + Node/Express backend, MongoDB, Admin Dashboard |
 | [MapReduce Word Count](https://github.com/tungnguyen/MapReduceWebApp) | ASP.NET frontend, RESTful services for Map, Reduce, Combine |
-| [Movie Search App](https://github.com/tungnguyen/MovieSearchApp) | Full-stack JavaScript app with Express API, MongoDB, and DOM UI |
 | [iOS Travel Journal](https://github.com/tungnguyen/TravelJournalApp) | SwiftUI + CoreData, MVVM architecture, interactive travel log |
 
 ---
@@ -52,10 +60,10 @@
 ### 📫 Let's Connect!
 
 <p align="left">
-  <a href="https://linkedin.com/in/tungnguyen" target="_blank">
+  <a href="https://linkedin.com/in/tungnguyen0202" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin" />
   </a>
-  <a href="mailto:tungnguyen@email.com">
+  <a href="mailto:tung.nguyenphoenix@email.com">
     <img src="https://img.shields.io/badge/-Email-red?style=flat&logo=gmail" />
   </a>
 </p>
