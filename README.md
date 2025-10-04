@@ -43,7 +43,7 @@
 | [Movie Search App](https://github.com/tungnguyenasu/MovieSearchApp) | Full-stack JavaScript app with Express API, MongoDB, and frontend movie search |
 | [Media Monitoring System](https://github.com/tungnguyenasu/MediaMonitoring) | Angular frontend + Node/Express backend, MongoDB, Admin Dashboard |
 | [MapReduce Word Count](https://github.com/tungnguyenasu/MapReduceWebApp) | ASP.NET frontend, RESTful services for Map, Reduce, Combine |
-| [iOS Travel Journal](https://github.com/tungnguyenasu/TravelJournalApp) | SwiftUI + CoreData, MVVM architecture, interactive travel log |
+| [iOS Travel Journal](https://github.com/tungnguyenasu/IOS-Travel-Journal) | SwiftUI + CoreData, MVVM architecture, interactive travel log |
 
 ---
 
