@@ -30,8 +30,8 @@
 ### 🔥 GitHub Stats
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=tungnguyenasu&show_icons=true&theme=radical" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tungnguyenasu&layout=compact&theme=radical" />
+  <img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api?username=tungnguyenasu&show_icons=true&theme=tokyonight" />
+  <img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=tungnguyenasu&layout=compact&theme=tokyonight" />
 </p>
 
 ---
@@ -44,6 +44,7 @@
 | [Media Monitoring System](https://github.com/tungnguyenasu/MediaMonitoring) | Angular frontend + Node/Express backend, MongoDB, Admin Dashboard |
 | [MapReduce Word Count](https://github.com/tungnguyenasu/MapReduce-Word-Count) | ASP.NET frontend, RESTful services for Map, Reduce, Combine |
 | [iOS Travel Journal](https://github.com/tungnguyenasu/IOS-Travel-Journal) | SwiftUI + CoreData, MVVM architecture, interactive travel log |
+| [AI Interview Coach](https://github.com/tungnguyenasu/ai-interview-coach) | Deployed AI interview platform using Cloudflare Workers, Workers AI, and Durable Objects with chat-based workflow, answer scoring, hints, and persistent session memory |
 
 ---
 
