@@ -42,7 +42,7 @@
 |--------|-------------|
 | [Movie Search App](https://github.com/tungnguyenasu/MovieSearchApp) | Full-stack JavaScript app with Express API, MongoDB, and frontend movie search |
 | [Media Monitoring System](https://github.com/tungnguyenasu/MediaMonitoring) | Angular frontend + Node/Express backend, MongoDB, Admin Dashboard |
-| [MapReduce Word Count](https://github.com/tungnguyenasu/MapReduce-Word-Count) | ASP.NET frontend, RESTful services for Map, Reduce, Combine |
+| [AI Meeting Copilot](https://github.com/tungnguyenasu/AI-meeting-copilot) | A real-time AI meeting copilot. Listens to a live microphone feed, streams a transcript, surfaces 3 context-aware suggestions every ~30s, and lets you click any suggestion (or type freely) to chat with the conversation as grounded context |
 | [iOS Travel Journal](https://github.com/tungnguyenasu/IOS-Travel-Journal) | SwiftUI + CoreData, MVVM architecture, interactive travel log |
 | [AI Interview Coach](https://github.com/tungnguyenasu/ai-interview-coach) | Deployed AI interview platform using Cloudflare Workers, Workers AI, and Durable Objects with chat-based workflow, answer scoring, hints, and persistent session memory |
 
